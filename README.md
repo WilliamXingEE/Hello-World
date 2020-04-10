@@ -1,10 +1,5 @@
 # Hello World
-It's my test!
-
-I try to change it! 
-
-Sorry ,I'm a newcomer!
-
+It's my test!  I try to change it!   Sorry ,I'm a newcomer!
 # Changed
 ## Md文件语法
 ***
@@ -37,19 +32,10 @@ python
 ```
 ***
 ### 表格
-姓名|学号|班级
-张三|11|1班
+姓名|学号|班级  张三|11|1班
 ---
 ### 强调
-**加粗** 
-
-__加粗__
-
-*倾斜* 
-
-_倾斜_
-
-~~删除~~
+**加粗**   __加粗__  *倾斜*    _倾斜_  ~~删除~~
 ***
 
 
